@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-first-thing/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-first-thing/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-07T01:05:35.439+03:00"}
 ---
 
 # Starting my first Blog Post via Publii
