@@ -4,7 +4,7 @@
 
 # At The Mountain's Summit
 
-![image](/img/user/_data_/media/unsplash/brown-rock-formation-under-blue-sky.jpg)
+![image](brown-rock-formation-under-blue-sky.jpg)
 
 Image credits: Cristina Gottardi | https://www.instagram.com/cristinagottardi/
 
