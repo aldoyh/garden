@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/unsplash-gallerie/c-spj-u6h-yo-0/","title":"brown-rock-formation-under-blue-sky.jpg","noteIcon":"","created":"2023-10-07T15:18:29.392+03:00"}
+{"dg-publish":true,"permalink":"/resources/unsplash-gallerie/c-spj-u6h-yo-0/","title":"brown-rock-formation-under-blue-sky.jpg","noteIcon":"","created":"2023-10-07T15:18:29.392+03:00","updated":"2023-10-07T17:32:53.156+03:00"}
 ---
 
 # At The Mountain's Summit
