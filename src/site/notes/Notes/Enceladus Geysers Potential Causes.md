@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/enceladus-geysers-potential-causes/","tags":["note","enceladus","geysers"],"noteIcon":"","created":"2023-10-02T18:45:09.291+03:00"}
+{"dg-publish":true,"permalink":"/notes/enceladus-geysers-potential-causes/","tags":["note","enceladus","geysers"],"noteIcon":"","created":"2023-10-02T18:45:09.291+03:00","updated":"2023-10-07T14:39:38.758+03:00"}
 ---
 
 [[Notes/Notes Dashboard\|Notes Dashboard]] / **[[Notes/Enceladus Geysers Potential Causes\|Enceladus Geysers Potential Causes]]**
