@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-second-post/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-07T01:51:46.133+03:00"}
+{"dg-publish":true,"permalink":"/the-second-post/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-07T01:51:46.133+03:00","updated":"2024-05-12T18:51:16.819+03:00"}
 ---
 
 # Starting my first Blog Post via Publii2 
